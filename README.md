@@ -1,2 +1,12 @@
 # Qatari-Arabic-ASR
-Doctoral research on dialectal Arabic speech technologies. This project aims to develop an ASR system for Qatari Arabic through corpus construction, fine-tuning of existing models, and linguistic error analysis. It contributes to the broader goal of language inclusion in AI and speech technology.
+
+This repository contains my PhD project focused on building an Automatic Speech Recognition (ASR) system for Qatari Arabic. The project combines linguistic research on dialectal variation with computational methods, including corpus construction, model fine-tuning, and error analysis.
+
+🚀 Goals:
+- Create a speech corpus for Qatari Arabic
+- Train and evaluate ASR models
+- Analyze linguistic errors and dialectal features
+- Promote Arabic dialects in NLP and AI
+
+📍 Part of my PhD work at the University of Warsaw.
+📅 Partly to be presented at IPRRFSS 2025 (Hong Kong).
